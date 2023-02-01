@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Suraj-TK
-- 👀 I’m interested in embedded systems and to hve fun with smart devices
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on PCB Design if possible (it would be a great oppurtunity to get some exp and exposure)
+- 👀 I’m interested in embedded systems and to have fun with smart devices
+- 🌱 Amateur programmer
 - 📫 How to reach me - Mail me on surajgovardhanan@gmail.com
 
 <!---
