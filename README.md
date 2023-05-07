@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suraj-TK
-- 👀 I’m interested in embedded systems and to have fun with smart devices
-- 🌱 Amateur programmer
+- 👀 On process of my career transition to data analytics
+- 🌱 Amateur analyst
 - 📫 How to reach me - Mail me on surajgovardhanan@gmail.com
 
 <!---
