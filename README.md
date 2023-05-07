@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suraj-TK
-- 👀 On process of my career transition to data analytics
+- ⚙️ On process of my career transition to data analytics
 - 🌱 Amateur analyst
 - 📫 How to reach me - Mail me on surajgovardhanan@gmail.com
 
